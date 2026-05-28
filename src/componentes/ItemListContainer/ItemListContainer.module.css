@@ -1,0 +1,12 @@
+.titulo {
+  text-align: center;
+  margin-top: 24px;
+  color: #1f2937;
+}
+
+.mensaje {
+  text-align: center;
+  padding: 40px;
+  font-size: 1.1rem;
+  color: #6b7280;
+}

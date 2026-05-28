@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2563eb;
+  color: #ffffff;
+  padding: 16px 24px;
+}
+
+.logo {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.lista {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.lista a {
+  color: #ffffff;
+  font-size: 1rem;
+}
+
+.lista a:hover {
+  text-decoration: underline;
+}
