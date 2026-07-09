@@ -2,7 +2,7 @@
 
 Ecommerce de productos retro gaming (consolas, cartuchos, controles, accesorios y coleccionables) hecho con React. Incluye catálogo dinámico desde Firebase, carrito de compras, autenticación con roles y un panel de administración para gestionar productos.
 
-**Demo en producción:** _(pegá acá la URL de Vercel una vez desplegado)_
+**Demo en producción:** _talento-tech-player-2.vercel.app_
 
 ## Tecnologías
 
