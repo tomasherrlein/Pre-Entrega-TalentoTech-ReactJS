@@ -35,8 +35,6 @@ npm install
 npm run dev
 ```
 
-La app queda disponible en `http://localhost:5173`.
-
 ## Uso
 
 Cualquiera puede ver los productos. Solo un administrador puede crearlos, editarlos o eliminarlos desde el panel.
@@ -60,4 +58,4 @@ public/           datos e imágenes
 
 ## Deploy
 
-Está preparado para Vercel. El archivo `vercel.json` redirige todas las rutas a `index.html` para que funcione el ruteo del lado del cliente. Solo hace falta conectar el repositorio en Vercel y desplegar, sin variables de entorno.
+Está preparado para Vercel. El archivo `vercel.json` redirige todas las rutas a `index.html` para que funcione el ruteo del lado del cliente. 
