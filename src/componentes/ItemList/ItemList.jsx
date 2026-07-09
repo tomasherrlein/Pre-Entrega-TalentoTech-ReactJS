@@ -1,9 +1,8 @@
 import Item from '../Item/Item';
-import styles from './ItemList.module.css';
 
 function ItemList({ productos }) {
   return (
-    <div className={styles.lista}>
+    <div className="flex flex-wrap gap-6 justify-center py-4">
       {productos.map((prod) => (
         <Item key={prod.id} {...prod} />
       ))}

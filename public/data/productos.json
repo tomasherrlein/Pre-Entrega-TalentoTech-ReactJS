@@ -1,50 +1,74 @@
 [
   {
     "id": 1,
-    "nombre": "Cámara Instantánea",
-    "precio": 85000,
-    "stock": 22,
-    "imagen": "/images/camara-instantanea.png",
-    "descripcion": "Cámara instantánea compacta que imprime tus fotos al momento. Ideal para regalos y eventos."
+    "nombre": "Consola Super Nintendo",
+    "precio": 145000,
+    "stock": 9,
+    "categoria": "Consolas",
+    "imagen": "/images/snes.svg",
+    "descripcion": "La clásica Super Nintendo restaurada y probada. Incluye dos controles y cable de video."
   },
   {
     "id": 2,
-    "nombre": "Auriculares Inalámbricos",
-    "precio": 45000,
-    "stock": 40,
-    "imagen": "/images/auriculares.jpeg",
-    "descripcion": "Auriculares Bluetooth con cancelación de ruido y hasta 20 horas de batería."
+    "nombre": "Sega Genesis",
+    "precio": 128000,
+    "stock": 6,
+    "categoria": "Consolas",
+    "imagen": "/images/genesis.svg",
+    "descripcion": "La 16 bits de Sega en excelente estado. Blast processing listo para tus tardes de Sonic."
   },
   {
     "id": 3,
-    "nombre": "Teclado Mecánico",
+    "nombre": "Cartucho The Legend of Zelda",
     "precio": 62000,
-    "stock": 15,
-    "imagen": "/images/teclado.jpg",
-    "descripcion": "Teclado mecánico retroiluminado con switches azules, perfecto para escribir y jugar."
+    "stock": 14,
+    "categoria": "Cartuchos",
+    "imagen": "/images/zelda.svg",
+    "descripcion": "Cartucho original de Zelda para NES. Batería de guardado reemplazada, guarda tu partida sin dramas."
   },
   {
     "id": 4,
-    "nombre": "Mouse Gamer",
-    "precio": 28000,
-    "stock": 35,
-    "imagen": "/images/mouse.png",
-    "descripcion": "Mouse ergonómico de 16000 DPI con iluminación RGB y 7 botones programables."
+    "nombre": "Cartucho Super Mario World",
+    "precio": 48000,
+    "stock": 20,
+    "categoria": "Cartuchos",
+    "imagen": "/images/mario.svg",
+    "descripcion": "Super Mario World para SNES. El que nunca falla, funcionando al 100%."
   },
   {
     "id": 5,
-    "nombre": "Monitor 24 pulgadas",
-    "precio": 195000,
-    "stock": 8,
-    "imagen": "/images/monitor.jpg",
-    "descripcion": "Monitor Full HD de 24'' con panel IPS y 75Hz de frecuencia de actualización."
+    "nombre": "Joystick Arcade",
+    "precio": 89000,
+    "stock": 11,
+    "categoria": "Controles",
+    "imagen": "/images/arcade-stick.svg",
+    "descripcion": "Joystick arcade con botones mecánicos y microswitches. Compatible con emuladores y consolas modernas."
   },
   {
     "id": 6,
-    "nombre": "Parlante Portátil",
-    "precio": 38000,
-    "stock": 27,
-    "imagen": "/images/parlante.jpeg",
-    "descripcion": "Parlante Bluetooth resistente al agua con sonido envolvente y 12 horas de reproducción."
+    "nombre": "Control Inalámbrico Retro",
+    "precio": 34000,
+    "stock": 25,
+    "categoria": "Controles",
+    "imagen": "/images/control.svg",
+    "descripcion": "Control inalámbrico con diseño retro y conexión USB. Batería recargable de larga duración."
+  },
+  {
+    "id": 7,
+    "nombre": "Cable RGB SCART",
+    "precio": 22000,
+    "stock": 30,
+    "categoria": "Accesorios",
+    "imagen": "/images/cable-rgb.svg",
+    "descripcion": "Cable RGB SCART para la mejor imagen posible en tus consolas retro. Adiós al video borroso."
+  },
+  {
+    "id": 8,
+    "nombre": "Figura Mega Man",
+    "precio": 41000,
+    "stock": 8,
+    "categoria": "Coleccionables",
+    "imagen": "/images/megaman.svg",
+    "descripcion": "Figura de colección de Mega Man de 15 cm. Edición articulada con accesorios intercambiables."
   }
 ]

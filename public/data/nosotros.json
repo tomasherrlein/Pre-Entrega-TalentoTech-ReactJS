@@ -2,28 +2,28 @@
   {
     "id": 1,
     "nombre": "Lionel Messi",
-    "email": "leo@talentolab.com",
+    "email": "leo@player2.com",
     "puesto": "Product Owner",
     "foto": "/images/messi.jpg"
   },
   {
     "id": 2,
     "nombre": "Diego Maradona",
-    "email": "diego@talentolab.com",
+    "email": "diego@player2.com",
     "puesto": "Diseñador UX/UI",
     "foto": "/images/maradona.jpg"
   },
   {
     "id": 3,
     "nombre": "Papa Francisco",
-    "email": "francisco@talentolab.com",
+    "email": "francisco@player2.com",
     "puesto": "Desarrollador Backend",
     "foto": "/images/francisco.jpg"
   },
   {
     "id": 4,
     "nombre": "Ricardo Fort",
-    "email": "ricardo@talentolab.com",
+    "email": "ricardo@player2.com",
     "puesto": "Desarrollador Frontend",
     "foto": "/images/fort.jpg"
   }
